@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Publications"
+  - title: "Talks"
+  - title: "Teaching"
+  - title: "Research journey"
+  - title: "$whoami"
+    url: /about/

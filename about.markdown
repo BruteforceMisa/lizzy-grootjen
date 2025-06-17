@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Lizzy, and I am a PhD candidate at the institute of Computing and Information Sciences (iCIS) at the Radboud University. I am currently focusing on deep-learning side-channel analysis for post-quantum cryptography, supervised by Lejla Batina and Stjepan Picek. 
+Hi! My name is Lizzy, and I am a PhD candidate from the institute of Computing and Information Sciences (iCIS) at the Radboud University. I am currently focusing on deep-learning side-channel analysis for post-quantum cryptography, supervised by Lejla Batina and Stjepan Picek. I'm part of the [CESCA](https://cescalab.cs.ru.nl) lab within the Digital Security Group.
 
 
 Timeline:

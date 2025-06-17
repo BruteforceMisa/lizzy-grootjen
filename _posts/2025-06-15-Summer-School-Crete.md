@@ -8,9 +8,9 @@ pagination:
   enabled: true
 ---
 
-Two months in during my PhD, it is time to attend my first summer school. This summer school PROACT was organised someone in our lab. The topic of the summer school aligned perfectly with my PhD topic, so after two months of reading papers and watching videos, this was the perfect time to get some live in-depth explanations on the materials! 
+Two months in during my PhD, it was time to attend my first summer school. This summer school [PROACT](https://proact-school.cs.ru.nl) was organised by [Konstantina Miteloudi](https://www.cs.ru.nl/~kmiteloudi/) from our lab. The topic of the summer school aligned perfectly with my PhD topic, so after two months of reading papers and watching videos, this was the perfect time to get some live in-depth explanations on the materials! 
 
-But then the travel date came closer, and I start to realise I (still) don't like airplanes. And the logistics about packing your suitcase, stressing about the suitcases' dimensions to fit in the provided boxes at the airport, stressing about "weird" liquids you want to take in the plane (i.e. your toothpaste etc.). When travelling with plane, my stress level has roughly three phases: reaching the airport in time, getting through security without hassle, and landing safely. Yes, I know statistically the airplane should be the safest travel option available, but I don't really like being on 10km of height... Luckily it was very cloudy so I just imagined these clouds to be soft pillows or snow.
+But then the travel date came closer, and I started to realise I (still) don't like airplanes. And the logistics about packing your suitcase, stressing about the suitcase's dimensions to fit in the provided boxes at the airport, stressing about "weird" liquids you want to take in the plane (i.e. your toothpaste etc.). When travelling with plane, my stress level has roughly three phases: reaching the airport in time, getting through security without hassle, and landing safely. Yes, I know statistically the airplane should be the safest travel option available, but I don't really like being on 10km of height... Luckily it was very cloudy so I just imagined these clouds to be soft pillows or snow.
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/pillows.jpeg) 
 
@@ -24,7 +24,7 @@ From the beach, we could hike up to a viewpoint where an old Venetian castle is 
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/postcard.jpeg) 
 
-After our daytrip, we went back to the hotel to wash of the 5 layers of sunscreen and prepare for the summer school. On Monday, there was a student session where PhD student could present their work. And of course, some slides still needed to be finetuned. 
+After our daytrip, we went back to the hotel to wash of the five layers of sunscreen and prepare for the summer school. On Monday, there was a student session where PhD students could present their work. And of course, some slides still needed to be finetuned. 
 
 On Monday, the day was kicked-off by a great tutorial from one of our lectures on TVLA. Getting directly hands-on exercises helped my brain to stay active during the heat of the day. The tutorial was followed by a lecture on design challenges for security accelerators and closed by the student sessions. After the student sessions, we had a welcome reception with amazing greek food and a pretty sunset view. 
 

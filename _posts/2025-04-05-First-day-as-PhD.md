@@ -16,6 +16,6 @@ I noticed a plant on my desk. Was I supposed to water it? I’m not exactly know
 Most of the day was filled with introductions and the usual admin tasks to get access to the university systems. Even though I had already studied at Radboud University, the sheer number of logins and passwords was a little overwhelming. My supervisor sent me the grant proposal and some papers to get started.
 To make my space feel more like mine, I brought in a plant from home. Well, sort of. Meet Pim the Pluchee — a low-maintenance desk buddy who just needs the occasional story (or debugging rant).
 
-<!-- ![image]({{ site.url }}{{ site.baseurl }}/assets/images/) -->
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/pim.jpeg)
 
 As expected, not much work gets done on day one between meeting new people and struggling with login screens. Oh well, that’s totally fine. I'm curious for the days to come!

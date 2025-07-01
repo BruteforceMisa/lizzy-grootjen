@@ -12,6 +12,8 @@ Welcome to my academical portfolio. Here I'll add anything related to my researc
 
 <h2> News: </h2>
 
-[New blogpost on PROACT Summer school](/_posts/2025-06-15-Summer-School-Crete.md) 
+[New blogpost on WISC workshop]({{site.baseurl}}/{% post_url 2025-06-26-WISC%})
 
-[New blogpost on my first talk in Zürich](/_posts/2025-06-15-First-Talk.md)
+[New blogpost on PROACT Summer school]({{site.baseurl}}/{% post_url 2025-06-15-Summer-School-Crete%})
+
+[New blogpost on my first talk in Zürich]({{site.baseurl}}/{% post_url 2025-06-15-First-Talk%})

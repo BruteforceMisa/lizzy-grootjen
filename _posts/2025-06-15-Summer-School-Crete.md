@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "PROACT Summer School in Crete"
-date:   2025-06-15 21:10:02 +0200
+date:   2025-06-15
 tags: summer-school phd-life
 categories: Travels
 pagination:

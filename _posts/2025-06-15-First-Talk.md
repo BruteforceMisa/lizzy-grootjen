@@ -16,18 +16,18 @@ After a few weeks, I got the email my work was accepted for a 15 minute talk. I 
 
 We booked a hotel and a Flixbus, so we were ready to go! After a 14 hour drive through the night, we arrived in Zürich. Such a beautiful city! We rested this day such that I was full of energy for the next day during my talk.
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/zurichview.JPG) 
+![image]({{ site.baseurl }}/assets/images/zurichview.JPG) 
 
 When I arrived at the University of Zürich, I was blown away by the historical building in which the University was located. Here I would present my talk! 
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/universitat.JPG) 
+![image]({{ site.baseurl }}/assets/images/universitat.JPG) 
 
 Being nervous for the talk is obviously part of the job, but it went quite well for a first experience. After the workshop, I had plenty of time to relax and see the city.
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/talk.jpeg) 
+![image]({{ site.baseurl }}/assets/images/talk.jpeg) 
 
 We visited the botanical garden of the University, two musea, the huge city park and the Rheinfalls. For a first conference experience, I think it went well and I enjoyed it very much!
 
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/botanicalgarden.JPG) 
+![image]({{ site.baseurl }}/assets/images/botanicalgarden.JPG) 
 

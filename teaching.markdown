@@ -7,14 +7,14 @@ permalink: /teaching/
 
 
 <h2> Courses: </h2>
-Security in Organisations (Autumn 2025)
-<!-- Physical Attacks on Secure Systems (Spring 2026) -->
+TA for Physical Attacks on Secure Systems (Spring 2026)<br>
+TA for IT in International Context (Spring 2026)<br>
+TA for Security in Organisations (Autumn 2025) <br>
 
 <h2> Student supervision: </h2>
 Are you interested in doing a project within the field of artificial intelligence, hardware security or cryptography? Feel free to contact me! We can define a project together.
 
-<!-- <h3> Ongoing: </h3>
-<b>Bachelor thesis:</b>
-- Beatrise Bertule -->
+<b>Completed Bachelor theses:</b>
 
-<!-- <h3> Completed: </h3> -->
+- [Deep Learning-based Side-Channel Attack: Mamba Approach](https://www.cs.ru.nl/bachelors-theses/2026/Beatrise_Bērtule___1105119___Deep_Learning-based_Side-Channel_Attack_-_Mamba_Approach.pdf) by Beatrise Bertule 
+
